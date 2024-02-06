@@ -2,5 +2,5 @@
 
 Initiation
 
-Commitment to Kaizen
-/tr Never give up
+/* Commitment to Kaizen
+// Never give up */
