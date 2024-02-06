@@ -3,4 +3,4 @@
 Initiation
 
 Commitment to Kaizen
-Never give up
+/tr Never give up
